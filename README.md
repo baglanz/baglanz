@@ -9,6 +9,7 @@ class About extends Me {
   const myTools = {  
     "ProgramingLanguages" : { "PHP", "Javascript", "Java" },
     "OtherLanguages" : { "HTML", "CSS" },
+    "Frameworks" : { "Laravel" },
     "Database" : { "MySQL" },
     "Editors" : { "Vscode", "PhpStorm", "Sublime" },
     "Platforms" : { "Mac", "Windows" },
