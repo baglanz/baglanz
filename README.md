@@ -1,3 +1,8 @@
+## Hi there<img src="https://github.com/baglanz/baglanz/blob/main/Hi.gif" width="29px"> 
+
+I'm Baglan Zhaksylyk, Backend developer <img src="https://github.com/baglanz/baglanz/blob/main/laravel-logo.svg" width="70"> from Kazakhstan
+
+
 <div align="center" width="50">
 <img src="https://github.com/baglanz/baglanz/blob/main/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="60%"/><br> 
 </div>
