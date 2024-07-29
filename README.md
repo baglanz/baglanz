@@ -15,10 +15,10 @@ class About extends Me {
     "ProgramingLanguages" : { "PHP", "Javascript", "Java" },
     "OtherLanguages" : { "HTML", "CSS", "Bootstrap", "Tailwind" },
     "Frameworks" : { "Laravel" },
-    "Database" : { "MySQL" },
+    "Database" : { "MySQL", "PostgreSQL" },
     "Editors" : { "Vscode", "PhpStorm", "Sublime" },
     "Platforms" : { "Mac", "Windows" },
-    "OtherTools" : { "Git" }
+    "OtherTools" : { "Git", "Docker" }
   };
 }
 ```
